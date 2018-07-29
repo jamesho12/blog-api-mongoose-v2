@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "myrun": "NODE_ENV='development' nodemon server.js"
   },
   "author": "",
   "license": "ISC",
